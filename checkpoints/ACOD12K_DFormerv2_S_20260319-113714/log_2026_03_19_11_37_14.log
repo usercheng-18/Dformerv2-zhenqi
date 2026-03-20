@@ -1,0 +1,2 @@
+2026-03-19 11:37:14,595 - train.py[line:126] - INFO: set seed 12345
+2026-03-19 11:37:14,597 - engine.py[line:188] - WARNING: A exception occurred during Engine initialization, give up running process
